@@ -4,5 +4,6 @@ import "github.com/MagnunAVF/go-by-example/examples"
 
 func main() {
 	// examples.HelloWorld()
-	examples.Values()
+	// examples.Values()
+	examples.Variables()
 }
