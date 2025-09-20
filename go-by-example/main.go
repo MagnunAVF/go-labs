@@ -7,5 +7,6 @@ func main() {
 	// examples.Values()
 	// examples.Variables()
 	// examples.Constants()
-	examples.For()
+	// examples.For()
+	examples.IfElse()
 }
