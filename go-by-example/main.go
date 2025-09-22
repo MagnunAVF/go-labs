@@ -13,5 +13,6 @@ func main() {
 	// examples.Arrays()
 	// examples.Slices()
 	// examples.Maps()
-	examples.Functions()
+	// examples.Functions()
+	examples.MultipleReturnValues()
 }
