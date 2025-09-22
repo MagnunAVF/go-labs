@@ -11,5 +11,6 @@ func main() {
 	// examples.IfElse()
 	// examples.Switch()
 	// examples.Arrays()
-	examples.Slices()
+	// examples.Slices()
+	examples.Maps()
 }
