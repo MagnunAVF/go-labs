@@ -16,5 +16,6 @@ func main() {
 	// examples.Functions()
 	// examples.MultipleReturnValues()
 	// examples.VariadicFunctions()
-	examples.Closures()
+	// examples.Closures()
+	examples.Recursion()
 }
