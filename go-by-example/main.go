@@ -17,5 +17,6 @@ func main() {
 	// examples.MultipleReturnValues()
 	// examples.VariadicFunctions()
 	// examples.Closures()
-	examples.Recursion()
+	// examples.Recursion()
+	examples.RangeOverBuiltInTypes()
 }
