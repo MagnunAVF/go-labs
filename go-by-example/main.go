@@ -12,5 +12,6 @@ func main() {
 	// examples.Switch()
 	// examples.Arrays()
 	// examples.Slices()
-	examples.Maps()
+	// examples.Maps()
+	examples.Functions()
 }
