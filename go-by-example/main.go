@@ -18,5 +18,6 @@ func main() {
 	// examples.VariadicFunctions()
 	// examples.Closures()
 	// examples.Recursion()
-	examples.RangeOverBuiltInTypes()
+	// examples.RangeOverBuiltInTypes()
+	examples.Pointers()
 }
