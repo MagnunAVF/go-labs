@@ -20,5 +20,6 @@ func main() {
 	// examples.Recursion()
 	// examples.RangeOverBuiltInTypes()
 	// examples.Pointers()
-	examples.StringsAndRunes()
+	// examples.StringsAndRunes()
+	examples.Structs()
 }
