@@ -19,5 +19,6 @@ func main() {
 	// examples.Closures()
 	// examples.Recursion()
 	// examples.RangeOverBuiltInTypes()
-	examples.Pointers()
+	// examples.Pointers()
+	examples.StringsAndRunes()
 }
