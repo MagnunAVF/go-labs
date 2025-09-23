@@ -2,20 +2,20 @@ package examples
 
 import "fmt"
 
-type rect struct {
+type rectA struct {
 	width, height int
 }
 
-func (r *rect) area() int {
+func (r *rectA) area() int {
 	return r.width * r.height
 }
 
-func (r rect) perim() int {
+func (r rectA) perim() int {
 	return 2*r.width + 2*r.height
 }
 
 func Methods() {
-	r := rect{width: 10, height: 5}
+	r := rectA{width: 10, height: 5}
 
 	fmt.Println("area: ", r.area())
 	fmt.Println("perim:", r.perim())

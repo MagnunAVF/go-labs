@@ -22,5 +22,6 @@ func main() {
 	// examples.Pointers()
 	// examples.StringsAndRunes()
 	// examples.Structs()
-	examples.Methods()
+	// examples.Methods()
+	examples.Interfaces()
 }
