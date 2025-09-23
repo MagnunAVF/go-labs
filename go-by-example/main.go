@@ -21,5 +21,6 @@ func main() {
 	// examples.RangeOverBuiltInTypes()
 	// examples.Pointers()
 	// examples.StringsAndRunes()
-	examples.Structs()
+	// examples.Structs()
+	examples.Methods()
 }
