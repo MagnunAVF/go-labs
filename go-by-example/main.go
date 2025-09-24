@@ -23,5 +23,6 @@ func main() {
 	// examples.StringsAndRunes()
 	// examples.Structs()
 	// examples.Methods()
-	examples.Interfaces()
+	// examples.Interfaces()
+	examples.Enums()
 }
