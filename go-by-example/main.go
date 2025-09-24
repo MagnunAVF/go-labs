@@ -24,5 +24,6 @@ func main() {
 	// examples.Structs()
 	// examples.Methods()
 	// examples.Interfaces()
-	examples.Enums()
+	// examples.Enums()
+	examples.StructEmbedding()
 }
