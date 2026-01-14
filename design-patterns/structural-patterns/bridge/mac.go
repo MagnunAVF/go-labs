@@ -1,0 +1,16 @@
+package main
+
+import "fmt"
+
+type Mac struct {
+	Printer Printer
+}
+
+func (m *Mac) Print() {
+	fmt.Println("Print request for mac")
+	m.Printer.PrintFile()
+}
+
+func (m *Mac) setPrinter(p Printer) {
+	m.Printer = p
+}
